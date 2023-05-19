@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionApp", "GestionApp\GestionApp.csproj", "{289868DD-8A31-45B1-BB38-B722457E27FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{D242D2B0-33C6-4379-9AA5-507B44CA7813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{E9B03FBF-6F4D-448B-AF20-F1F7BFAD8BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{289868DD-8A31-45B1-BB38-B722457E27FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289868DD-8A31-45B1-BB38-B722457E27FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289868DD-8A31-45B1-BB38-B722457E27FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289868DD-8A31-45B1-BB38-B722457E27FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D242D2B0-33C6-4379-9AA5-507B44CA7813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D242D2B0-33C6-4379-9AA5-507B44CA7813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D242D2B0-33C6-4379-9AA5-507B44CA7813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D242D2B0-33C6-4379-9AA5-507B44CA7813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B03FBF-6F4D-448B-AF20-F1F7BFAD8BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B03FBF-6F4D-448B-AF20-F1F7BFAD8BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B03FBF-6F4D-448B-AF20-F1F7BFAD8BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B03FBF-6F4D-448B-AF20-F1F7BFAD8BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA8CDBA-45BE-41E2-89DF-7650A2A8A2A5}
+	EndGlobalSection
+EndGlobal
